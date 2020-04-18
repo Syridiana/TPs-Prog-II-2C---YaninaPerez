@@ -1,0 +1,13 @@
+D:\Documentos D\Yani\Facu\UTN\Prog 2\Prog2-TPs-Desarrollo\TP1\TP 1 -  Yanina Perez - 2do C\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+D:\Documentos D\Yani\Facu\UTN\Prog 2\Prog2-TPs-Desarrollo\TP1\TP 1 -  Yanina Perez - 2do C\MiCalculadora\bin\Debug\MiCalculadora.exe
+D:\Documentos D\Yani\Facu\UTN\Prog 2\Prog2-TPs-Desarrollo\TP1\TP 1 -  Yanina Perez - 2do C\MiCalculadora\bin\Debug\MiCalculadora.pdb
+D:\Documentos D\Yani\Facu\UTN\Prog 2\Prog2-TPs-Desarrollo\TP1\TP 1 -  Yanina Perez - 2do C\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+D:\Documentos D\Yani\Facu\UTN\Prog 2\Prog2-TPs-Desarrollo\TP1\TP 1 -  Yanina Perez - 2do C\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+D:\Documentos D\Yani\Facu\UTN\Prog 2\Prog2-TPs-Desarrollo\TP1\TP 1 -  Yanina Perez - 2do C\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+D:\Documentos D\Yani\Facu\UTN\Prog 2\Prog2-TPs-Desarrollo\TP1\TP 1 -  Yanina Perez - 2do C\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+D:\Documentos D\Yani\Facu\UTN\Prog 2\Prog2-TPs-Desarrollo\TP1\TP 1 -  Yanina Perez - 2do C\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+D:\Documentos D\Yani\Facu\UTN\Prog 2\Prog2-TPs-Desarrollo\TP1\TP 1 -  Yanina Perez - 2do C\MiCalculadora\obj\Debug\MiCalculadora.exe
+D:\Documentos D\Yani\Facu\UTN\Prog 2\Prog2-TPs-Desarrollo\TP1\TP 1 -  Yanina Perez - 2do C\MiCalculadora\obj\Debug\MiCalculadora.pdb
+D:\Documentos D\Yani\Facu\UTN\Prog 2\Prog2-TPs-Desarrollo\TP1\TP 1 -  Yanina Perez - 2do C\MiCalculadora\bin\Debug\Entidades.dll
+D:\Documentos D\Yani\Facu\UTN\Prog 2\Prog2-TPs-Desarrollo\TP1\TP 1 -  Yanina Perez - 2do C\MiCalculadora\bin\Debug\Entidades.pdb
+D:\Documentos D\Yani\Facu\UTN\Prog 2\Prog2-TPs-Desarrollo\TP1\TP 1 -  Yanina Perez - 2do C\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
