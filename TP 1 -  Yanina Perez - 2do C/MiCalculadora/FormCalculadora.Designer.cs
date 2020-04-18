@@ -41,7 +41,7 @@
             // 
             // txtNumero1
             // 
-            this.txtNumero1.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtNumero1.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtNumero1.Location = new System.Drawing.Point(52, 69);
             this.txtNumero1.Margin = new System.Windows.Forms.Padding(4);
             this.txtNumero1.Name = "txtNumero1";
@@ -55,7 +55,7 @@
             "-",
             "*",
             "/"});
-            this.cmbOperator.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cmbOperator.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cmbOperator.FormattingEnabled = true;
             this.cmbOperator.Items.AddRange(new object[] {
             "+",
@@ -70,7 +70,7 @@
             // 
             // txtNumero2
             // 
-            this.txtNumero2.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtNumero2.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtNumero2.Location = new System.Drawing.Point(381, 69);
             this.txtNumero2.Margin = new System.Windows.Forms.Padding(4);
             this.txtNumero2.Name = "txtNumero2";
@@ -79,7 +79,7 @@
             // 
             // lblResultado
             // 
-            this.lblResultado.Font = new System.Drawing.Font("Arial", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblResultado.Font = new System.Drawing.Font("Courier New", 15F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblResultado.Location = new System.Drawing.Point(57, 26);
             this.lblResultado.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblResultado.Name = "lblResultado";
@@ -88,10 +88,11 @@
             this.lblResultado.TabIndex = 8;
             this.lblResultado.Text = "0";
             this.lblResultado.TextAlign = System.Drawing.ContentAlignment.TopRight;
+            this.lblResultado.Click += new System.EventHandler(this.lblResultado_Click);
             // 
             // btnOperar
             // 
-            this.btnOperar.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnOperar.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnOperar.Location = new System.Drawing.Point(50, 128);
             this.btnOperar.Margin = new System.Windows.Forms.Padding(4);
             this.btnOperar.Name = "btnOperar";
@@ -103,7 +104,7 @@
             // 
             // btnLimpiar
             // 
-            this.btnLimpiar.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnLimpiar.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnLimpiar.Location = new System.Drawing.Point(220, 128);
             this.btnLimpiar.Margin = new System.Windows.Forms.Padding(4);
             this.btnLimpiar.Name = "btnLimpiar";
@@ -115,7 +116,7 @@
             // 
             // btnCerrar
             // 
-            this.btnCerrar.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnCerrar.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCerrar.Location = new System.Drawing.Point(381, 128);
             this.btnCerrar.Margin = new System.Windows.Forms.Padding(4);
             this.btnCerrar.Name = "btnCerrar";
@@ -127,7 +128,7 @@
             // 
             // btnConvertirABinario
             // 
-            this.btnConvertirABinario.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnConvertirABinario.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnConvertirABinario.Location = new System.Drawing.Point(51, 183);
             this.btnConvertirABinario.Margin = new System.Windows.Forms.Padding(4);
             this.btnConvertirABinario.Name = "btnConvertirABinario";
@@ -139,7 +140,7 @@
             // 
             // btnConvertirADecimal
             // 
-            this.btnConvertirADecimal.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnConvertirADecimal.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnConvertirADecimal.Location = new System.Drawing.Point(299, 183);
             this.btnConvertirADecimal.Margin = new System.Windows.Forms.Padding(4);
             this.btnConvertirADecimal.Name = "btnConvertirADecimal";
