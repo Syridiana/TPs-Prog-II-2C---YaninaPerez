@@ -89,7 +89,6 @@
             this.lblResultado.TabIndex = 8;
             this.lblResultado.Text = "0";
             this.lblResultado.TextAlign = System.Drawing.ContentAlignment.TopRight;
-            this.lblResultado.Click += new System.EventHandler(this.lblResultado_Click);
             // 
             // btnOperar
             // 
