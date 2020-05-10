@@ -1,0 +1,20 @@
+D:\Documentos D\Yani\Facu\UTN\Prog 2\TPs\TP1\TP 1 -  Yanina Perez - 2do C\TP 1 -  Yanina Perez - 2do C\bin\Debug\TP 1 -  Yanina Perez - 2do C.exe.config
+D:\Documentos D\Yani\Facu\UTN\Prog 2\TPs\TP1\TP 1 -  Yanina Perez - 2do C\TP 1 -  Yanina Perez - 2do C\bin\Debug\TP 1 -  Yanina Perez - 2do C.exe
+D:\Documentos D\Yani\Facu\UTN\Prog 2\TPs\TP1\TP 1 -  Yanina Perez - 2do C\TP 1 -  Yanina Perez - 2do C\bin\Debug\TP 1 -  Yanina Perez - 2do C.pdb
+D:\Documentos D\Yani\Facu\UTN\Prog 2\TPs\TP1\TP 1 -  Yanina Perez - 2do C\TP 1 -  Yanina Perez - 2do C\bin\Debug\Entidades.dll
+D:\Documentos D\Yani\Facu\UTN\Prog 2\TPs\TP1\TP 1 -  Yanina Perez - 2do C\TP 1 -  Yanina Perez - 2do C\bin\Debug\Entidades.pdb
+D:\Documentos D\Yani\Facu\UTN\Prog 2\TPs\TP1\TP 1 -  Yanina Perez - 2do C\TP 1 -  Yanina Perez - 2do C\obj\Debug\TP 1 -  Yanina Perez - 2do C.csprojAssemblyReference.cache
+D:\Documentos D\Yani\Facu\UTN\Prog 2\TPs\TP1\TP 1 -  Yanina Perez - 2do C\TP 1 -  Yanina Perez - 2do C\obj\Debug\TP 1 -  Yanina Perez - 2do C.csproj.CoreCompileInputs.cache
+D:\Documentos D\Yani\Facu\UTN\Prog 2\TPs\TP1\TP 1 -  Yanina Perez - 2do C\TP 1 -  Yanina Perez - 2do C\obj\Debug\TP 1 -  Yanina Perez - 2do C.csproj.CopyComplete
+D:\Documentos D\Yani\Facu\UTN\Prog 2\TPs\TP1\TP 1 -  Yanina Perez - 2do C\TP 1 -  Yanina Perez - 2do C\obj\Debug\TP 1 -  Yanina Perez - 2do C.exe
+D:\Documentos D\Yani\Facu\UTN\Prog 2\TPs\TP1\TP 1 -  Yanina Perez - 2do C\TP 1 -  Yanina Perez - 2do C\obj\Debug\TP 1 -  Yanina Perez - 2do C.pdb
+D:\Documentos D\Yani\Facu\UTN\Prog 2\Prog2-TPs-Desarrollo\TP1\TP 1 -  Yanina Perez - 2do C\TP 1 -  Yanina Perez - 2do C\bin\Debug\TP 1 -  Yanina Perez - 2do C.exe.config
+D:\Documentos D\Yani\Facu\UTN\Prog 2\Prog2-TPs-Desarrollo\TP1\TP 1 -  Yanina Perez - 2do C\TP 1 -  Yanina Perez - 2do C\bin\Debug\TP 1 -  Yanina Perez - 2do C.exe
+D:\Documentos D\Yani\Facu\UTN\Prog 2\Prog2-TPs-Desarrollo\TP1\TP 1 -  Yanina Perez - 2do C\TP 1 -  Yanina Perez - 2do C\bin\Debug\TP 1 -  Yanina Perez - 2do C.pdb
+D:\Documentos D\Yani\Facu\UTN\Prog 2\Prog2-TPs-Desarrollo\TP1\TP 1 -  Yanina Perez - 2do C\TP 1 -  Yanina Perez - 2do C\bin\Debug\Entidades.dll
+D:\Documentos D\Yani\Facu\UTN\Prog 2\Prog2-TPs-Desarrollo\TP1\TP 1 -  Yanina Perez - 2do C\TP 1 -  Yanina Perez - 2do C\bin\Debug\Entidades.pdb
+D:\Documentos D\Yani\Facu\UTN\Prog 2\Prog2-TPs-Desarrollo\TP1\TP 1 -  Yanina Perez - 2do C\TP 1 -  Yanina Perez - 2do C\obj\Debug\TP 1 -  Yanina Perez - 2do C.csprojAssemblyReference.cache
+D:\Documentos D\Yani\Facu\UTN\Prog 2\Prog2-TPs-Desarrollo\TP1\TP 1 -  Yanina Perez - 2do C\TP 1 -  Yanina Perez - 2do C\obj\Debug\TP 1 -  Yanina Perez - 2do C.csproj.CoreCompileInputs.cache
+D:\Documentos D\Yani\Facu\UTN\Prog 2\Prog2-TPs-Desarrollo\TP1\TP 1 -  Yanina Perez - 2do C\TP 1 -  Yanina Perez - 2do C\obj\Debug\TP 1 -  Yanina Perez - 2do C.csproj.CopyComplete
+D:\Documentos D\Yani\Facu\UTN\Prog 2\Prog2-TPs-Desarrollo\TP1\TP 1 -  Yanina Perez - 2do C\TP 1 -  Yanina Perez - 2do C\obj\Debug\TP 1 -  Yanina Perez - 2do C.exe
+D:\Documentos D\Yani\Facu\UTN\Prog 2\Prog2-TPs-Desarrollo\TP1\TP 1 -  Yanina Perez - 2do C\TP 1 -  Yanina Perez - 2do C\obj\Debug\TP 1 -  Yanina Perez - 2do C.pdb
