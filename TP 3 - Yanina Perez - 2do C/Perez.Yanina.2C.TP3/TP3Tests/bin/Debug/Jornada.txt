@@ -3,8 +3,8 @@ NACIONALIDAD: Argentino
 
 LEGAJO NÚMERO: 0
 CLASES DEL DIA:
-Laboratorio
-Programacion
+Legislacion
+Legislacion
 
 ALUMNOS:
 No hay alumnos en esta clase
