@@ -1,0 +1,13 @@
+D:\Documentos D\Yani\Facu\UTN\Prog 2\tps-prog-ii-2c---yaninaperez\TP 3 - Yanina Perez - 2do C\Perez.Yanina.2C.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csprojAssemblyReference.cache
+D:\Documentos D\Yani\Facu\UTN\Prog 2\tps-prog-ii-2c---yaninaperez\TP 3 - Yanina Perez - 2do C\Perez.Yanina.2C.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csproj.CoreCompileInputs.cache
+D:\Documentos D\Yani\Facu\UTN\Prog 2\tps-prog-ii-2c---yaninaperez\TP 3 - Yanina Perez - 2do C\Perez.Yanina.2C.TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.dll
+D:\Documentos D\Yani\Facu\UTN\Prog 2\tps-prog-ii-2c---yaninaperez\TP 3 - Yanina Perez - 2do C\Perez.Yanina.2C.TP3\ClasesInstanciables\bin\Debug\ClasesInstanciables.pdb
+D:\Documentos D\Yani\Facu\UTN\Prog 2\tps-prog-ii-2c---yaninaperez\TP 3 - Yanina Perez - 2do C\Perez.Yanina.2C.TP3\ClasesInstanciables\bin\Debug\Archivos.dll
+D:\Documentos D\Yani\Facu\UTN\Prog 2\tps-prog-ii-2c---yaninaperez\TP 3 - Yanina Perez - 2do C\Perez.Yanina.2C.TP3\ClasesInstanciables\bin\Debug\ClasesAbstractas.dll
+D:\Documentos D\Yani\Facu\UTN\Prog 2\tps-prog-ii-2c---yaninaperez\TP 3 - Yanina Perez - 2do C\Perez.Yanina.2C.TP3\ClasesInstanciables\bin\Debug\Excepciones.dll
+D:\Documentos D\Yani\Facu\UTN\Prog 2\tps-prog-ii-2c---yaninaperez\TP 3 - Yanina Perez - 2do C\Perez.Yanina.2C.TP3\ClasesInstanciables\bin\Debug\Archivos.pdb
+D:\Documentos D\Yani\Facu\UTN\Prog 2\tps-prog-ii-2c---yaninaperez\TP 3 - Yanina Perez - 2do C\Perez.Yanina.2C.TP3\ClasesInstanciables\bin\Debug\ClasesAbstractas.pdb
+D:\Documentos D\Yani\Facu\UTN\Prog 2\tps-prog-ii-2c---yaninaperez\TP 3 - Yanina Perez - 2do C\Perez.Yanina.2C.TP3\ClasesInstanciables\bin\Debug\Excepciones.pdb
+D:\Documentos D\Yani\Facu\UTN\Prog 2\tps-prog-ii-2c---yaninaperez\TP 3 - Yanina Perez - 2do C\Perez.Yanina.2C.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.csproj.CopyComplete
+D:\Documentos D\Yani\Facu\UTN\Prog 2\tps-prog-ii-2c---yaninaperez\TP 3 - Yanina Perez - 2do C\Perez.Yanina.2C.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.dll
+D:\Documentos D\Yani\Facu\UTN\Prog 2\tps-prog-ii-2c---yaninaperez\TP 3 - Yanina Perez - 2do C\Perez.Yanina.2C.TP3\ClasesInstanciables\obj\Debug\ClasesInstanciables.pdb

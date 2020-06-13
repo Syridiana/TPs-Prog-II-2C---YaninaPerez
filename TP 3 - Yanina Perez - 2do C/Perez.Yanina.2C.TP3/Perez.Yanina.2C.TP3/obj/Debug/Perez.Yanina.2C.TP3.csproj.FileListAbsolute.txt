@@ -1,0 +1,16 @@
+D:\Documentos D\Yani\Facu\UTN\Prog 2\tps-prog-ii-2c---yaninaperez\TP 3 - Yanina Perez - 2do C\Perez.Yanina.2C.TP3\Perez.Yanina.2C.TP3\obj\Debug\Perez.Yanina.2C.TP3.csprojAssemblyReference.cache
+D:\Documentos D\Yani\Facu\UTN\Prog 2\tps-prog-ii-2c---yaninaperez\TP 3 - Yanina Perez - 2do C\Perez.Yanina.2C.TP3\Perez.Yanina.2C.TP3\obj\Debug\Perez.Yanina.2C.TP3.csproj.CoreCompileInputs.cache
+D:\Documentos D\Yani\Facu\UTN\Prog 2\tps-prog-ii-2c---yaninaperez\TP 3 - Yanina Perez - 2do C\Perez.Yanina.2C.TP3\Perez.Yanina.2C.TP3\bin\Debug\Perez.Yanina.2C.TP3.exe.config
+D:\Documentos D\Yani\Facu\UTN\Prog 2\tps-prog-ii-2c---yaninaperez\TP 3 - Yanina Perez - 2do C\Perez.Yanina.2C.TP3\Perez.Yanina.2C.TP3\bin\Debug\Perez.Yanina.2C.TP3.exe
+D:\Documentos D\Yani\Facu\UTN\Prog 2\tps-prog-ii-2c---yaninaperez\TP 3 - Yanina Perez - 2do C\Perez.Yanina.2C.TP3\Perez.Yanina.2C.TP3\bin\Debug\Perez.Yanina.2C.TP3.pdb
+D:\Documentos D\Yani\Facu\UTN\Prog 2\tps-prog-ii-2c---yaninaperez\TP 3 - Yanina Perez - 2do C\Perez.Yanina.2C.TP3\Perez.Yanina.2C.TP3\bin\Debug\Archivos.dll
+D:\Documentos D\Yani\Facu\UTN\Prog 2\tps-prog-ii-2c---yaninaperez\TP 3 - Yanina Perez - 2do C\Perez.Yanina.2C.TP3\Perez.Yanina.2C.TP3\bin\Debug\ClasesAbstractas.dll
+D:\Documentos D\Yani\Facu\UTN\Prog 2\tps-prog-ii-2c---yaninaperez\TP 3 - Yanina Perez - 2do C\Perez.Yanina.2C.TP3\Perez.Yanina.2C.TP3\bin\Debug\ClasesInstanciables.dll
+D:\Documentos D\Yani\Facu\UTN\Prog 2\tps-prog-ii-2c---yaninaperez\TP 3 - Yanina Perez - 2do C\Perez.Yanina.2C.TP3\Perez.Yanina.2C.TP3\bin\Debug\Excepciones.dll
+D:\Documentos D\Yani\Facu\UTN\Prog 2\tps-prog-ii-2c---yaninaperez\TP 3 - Yanina Perez - 2do C\Perez.Yanina.2C.TP3\Perez.Yanina.2C.TP3\bin\Debug\Archivos.pdb
+D:\Documentos D\Yani\Facu\UTN\Prog 2\tps-prog-ii-2c---yaninaperez\TP 3 - Yanina Perez - 2do C\Perez.Yanina.2C.TP3\Perez.Yanina.2C.TP3\bin\Debug\ClasesAbstractas.pdb
+D:\Documentos D\Yani\Facu\UTN\Prog 2\tps-prog-ii-2c---yaninaperez\TP 3 - Yanina Perez - 2do C\Perez.Yanina.2C.TP3\Perez.Yanina.2C.TP3\bin\Debug\ClasesInstanciables.pdb
+D:\Documentos D\Yani\Facu\UTN\Prog 2\tps-prog-ii-2c---yaninaperez\TP 3 - Yanina Perez - 2do C\Perez.Yanina.2C.TP3\Perez.Yanina.2C.TP3\bin\Debug\Excepciones.pdb
+D:\Documentos D\Yani\Facu\UTN\Prog 2\tps-prog-ii-2c---yaninaperez\TP 3 - Yanina Perez - 2do C\Perez.Yanina.2C.TP3\Perez.Yanina.2C.TP3\obj\Debug\Perez.Yanina.2C.TP3.csproj.CopyComplete
+D:\Documentos D\Yani\Facu\UTN\Prog 2\tps-prog-ii-2c---yaninaperez\TP 3 - Yanina Perez - 2do C\Perez.Yanina.2C.TP3\Perez.Yanina.2C.TP3\obj\Debug\Perez.Yanina.2C.TP3.exe
+D:\Documentos D\Yani\Facu\UTN\Prog 2\tps-prog-ii-2c---yaninaperez\TP 3 - Yanina Perez - 2do C\Perez.Yanina.2C.TP3\Perez.Yanina.2C.TP3\obj\Debug\Perez.Yanina.2C.TP3.pdb
