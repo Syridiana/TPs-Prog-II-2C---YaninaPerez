@@ -11,6 +11,8 @@ namespace TP3Tests
     public class TestsUnitarios
     {
         [TestMethod]
+        //Para parcial usar:
+        //[ExpectedException(typeof(ArchivosException))]
         public void TestArchivosException()
         {
             //arrange

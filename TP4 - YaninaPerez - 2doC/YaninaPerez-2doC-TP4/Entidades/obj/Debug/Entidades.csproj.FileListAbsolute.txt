@@ -1,0 +1,6 @@
+D:\Documentos D\Yani\Facu\UTN\Prog 2\tps-prog-ii-2c---yaninaperez\TP4 - YaninaPerez - 2doC\YaninaPerez-2doC-TP4\Entidades\bin\Debug\Entidades.dll
+D:\Documentos D\Yani\Facu\UTN\Prog 2\tps-prog-ii-2c---yaninaperez\TP4 - YaninaPerez - 2doC\YaninaPerez-2doC-TP4\Entidades\bin\Debug\Entidades.pdb
+D:\Documentos D\Yani\Facu\UTN\Prog 2\tps-prog-ii-2c---yaninaperez\TP4 - YaninaPerez - 2doC\YaninaPerez-2doC-TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Documentos D\Yani\Facu\UTN\Prog 2\tps-prog-ii-2c---yaninaperez\TP4 - YaninaPerez - 2doC\YaninaPerez-2doC-TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Documentos D\Yani\Facu\UTN\Prog 2\tps-prog-ii-2c---yaninaperez\TP4 - YaninaPerez - 2doC\YaninaPerez-2doC-TP4\Entidades\obj\Debug\Entidades.dll
+D:\Documentos D\Yani\Facu\UTN\Prog 2\tps-prog-ii-2c---yaninaperez\TP4 - YaninaPerez - 2doC\YaninaPerez-2doC-TP4\Entidades\obj\Debug\Entidades.pdb

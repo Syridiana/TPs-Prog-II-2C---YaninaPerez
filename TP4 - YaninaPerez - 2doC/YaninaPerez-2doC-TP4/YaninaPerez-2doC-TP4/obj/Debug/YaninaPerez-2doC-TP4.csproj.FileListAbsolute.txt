@@ -1,0 +1,4 @@
+D:\Documentos D\Yani\Facu\UTN\Prog 2\tps-prog-ii-2c---yaninaperez\TP4 - YaninaPerez - 2doC\YaninaPerez-2doC-TP4\YaninaPerez-2doC-TP4\obj\Debug\YaninaPerez-2doC-TP4.csprojAssemblyReference.cache
+D:\Documentos D\Yani\Facu\UTN\Prog 2\tps-prog-ii-2c---yaninaperez\TP4 - YaninaPerez - 2doC\YaninaPerez-2doC-TP4\YaninaPerez-2doC-TP4\obj\Debug\YaninaPerez_2doC_TP4.FrmPpal.resources
+D:\Documentos D\Yani\Facu\UTN\Prog 2\tps-prog-ii-2c---yaninaperez\TP4 - YaninaPerez - 2doC\YaninaPerez-2doC-TP4\YaninaPerez-2doC-TP4\obj\Debug\YaninaPerez-2doC-TP4.csproj.GenerateResource.cache
+D:\Documentos D\Yani\Facu\UTN\Prog 2\tps-prog-ii-2c---yaninaperez\TP4 - YaninaPerez - 2doC\YaninaPerez-2doC-TP4\YaninaPerez-2doC-TP4\obj\Debug\YaninaPerez-2doC-TP4.csproj.CoreCompileInputs.cache
